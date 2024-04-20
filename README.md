@@ -1,6 +1,6 @@
 # Time series forecasting for energy consumption
 
-Exploration of time series forecasting for energy usage with TensorFlow: training CNN and RNN models for predicting energy consumption based on date and time. Inspired by: [](https://www.tensorflow.org/tutorials/structured_data/time_series)
+Exploration of time series forecasting for energy usage with TensorFlow: training CNN and RNN models for predicting energy consumption based on date, time and current / recent consumption. Inspired by: [](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
 ## Resources
 
